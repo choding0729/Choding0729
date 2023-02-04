@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
-- 🤔 I’m looking for help with
-- 💬 Ask me about
+</br>
+
+- 🌱 I started learning recently.
+- 😄 I hope to be a happy developer.
